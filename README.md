@@ -24,13 +24,6 @@
   - Hate Speech Detection: Developed a classifier to identify harmful content  
   - To-Do List Website: A web app built using Python Flask  
 
-## 🏢 Professional Experience  
-- **Machine Learning Intern** @ Acmegrade Pvt Ltd (May–July 2024)  
-  - Developed practical skills in ML applications.  
-
-- **Data Science Intern** @ Personifwy Pvt Ltd (March–April 2024)  
-  - Conducted statistical data analysis and managed datasets from various sources.  
-
 ## 🏆 Certifications  
 - Career Essentials in Generative AI by Microsoft & LinkedIn  
 - IBM Certified Prompt Engineer 
