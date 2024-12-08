@@ -22,7 +22,9 @@
   - [Reddit Stock Movement Analysis](https://github.com/Arnaviitp/Reddit-Stock-Movement-Analysis): Predicting stock trends using social media sentiment  
   - Spam SMS Classification: Built a model to detect spam messages  
   - Hate Speech Detection: Developed a classifier to identify harmful content  
-  - To-Do List Website: A web app built using Python Flask  
+  - To-Do List Website: A web app built using Python Flask
+  - Credit EDA
+  - Music Recommendation System
 
 ## 🏆 Certifications  
 - Career Essentials in Generative AI by Microsoft & LinkedIn  
