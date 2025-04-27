@@ -24,14 +24,16 @@
   - Spam SMS Classification: Built a model to detect spam messages  
   - Hate Speech Detection: Developed a classifier to identify harmful content  
   - To-Do List Website: A web app built using Python Flask
-  - Credit EDA
-  - Music Recommendation System
-  - Adidas U.S. Sales Analysis
+  - Music Recommendation System : Developed a system that suggests personalized music tracks to users based on their listening history and preferences
+  - Adidas U.S. Sales Analysis : Analyzed U.S. Adidas sales data to identify patterns, top-performing products, and actionable business insights.
 
 ## 🏆 Certifications  
 - Career Essentials in Generative AI by Microsoft & LinkedIn  
 - IBM Certified Prompt Engineer 
-- Python (Basic) Certificate by HackerRank  
+- Python (Basic) Certificate by HackerRank
+- HP LIFE online Data Science & Analytics course
+- Secured 3rd in CodeQuest Coding Competition(IIT
+ Patna-HackerRank)  
 
 ## 🌱 Interests  
 - Tech innovations  
