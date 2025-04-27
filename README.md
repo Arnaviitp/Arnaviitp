@@ -11,7 +11,8 @@
  🧠 About Me  
 - 🏫 Education:
   - BSc in CS & Data Analytics, IIT Patna  
-  - Achieved 91% in 12th CBSE Boards  
+  - Achieved 91% in 12th CBSE Boards
+  - gigx Data Analytics Club Member
 
 - 💻 Skills:  
   - Programming: Python, SQL, Flask, Pandas, Numpy, Excel  
@@ -25,6 +26,7 @@
   - To-Do List Website: A web app built using Python Flask
   - Credit EDA
   - Music Recommendation System
+  - Adidas U.S. Sales Analysis
 
 ## 🏆 Certifications  
 - Career Essentials in Generative AI by Microsoft & LinkedIn  
