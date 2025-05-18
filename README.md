@@ -16,9 +16,9 @@
   - SDE Intern at Bluestocks Fintech
 
 - 💻 Skills:  
-  - Programming: Python, SQL, Flask, Pandas, Numpy, Excel  
+  - Programming: Python, SQL, Flask, Pandas, Numpy, Excel , Microsoft Power BI , HTML , CSS 
   - AI/ML: Machine Learning Basics, AI Fundamentals, Generative AI  
-  - Soft Skills: Time Management, Logical Reasoning, Reliability  
+  - Soft Skills: Time Management, Logical Reasoning, Reliability , Leadership
 
 - 🛠️ **Key Projects:**  
   - [Reddit Stock Movement Analysis](https://github.com/Arnaviitp/Reddit-Stock-Movement-Analysis): Predicting stock trends using social media sentiment  
