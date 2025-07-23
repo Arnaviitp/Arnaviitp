@@ -12,7 +12,6 @@
 - 🏫 Education:
   - BS in CS & Data Analytics, IIT Patna  
   - Achieved 91% in 12th CBSE Boards
-  - gigx Data Analytics Club Member
   - SDE Intern at Bluestocks Fintech
 
 - 💻 Skills:  
