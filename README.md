@@ -12,7 +12,8 @@
 - 🏫 Education:
   - BS in CS & Data Analytics, IIT Patna  
   - Achieved 91% in 12th CBSE Boards
-  - SDE Intern at Bluestocks Fintech
+  - Ex - SDE Intern at Bluestocks Fintech
+  - SDE Intern at Vestastrat
 
 - 💻 Skills:  
   - Programming: Python, SQL, Flask, Pandas, Numpy, Excel , Microsoft Power BI , HTML , CSS 
