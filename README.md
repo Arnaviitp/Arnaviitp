@@ -29,7 +29,12 @@
   - Adidas U.S. Sales Analysis : Analyzed U.S. Adidas sales data to identify patterns, top-performing products, and actionable business insights.
 
 ## 🏆 Certifications  
-- Career Essentials in Generative AI by Microsoft & LinkedIn  
+- Career Essentials in Generative AI by Microsoft & LinkedIn
+- Oracle Cloud Infrastructure 2025 Certified Data Science Professional
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- TCS iON Career Edge – Young Professional Course
+- Certificate of Merit for being placed in the top 25 percentile in Summer Analytics 2025 (By IIT Guwahati)
+-  Certificate of Excellence for outstanding performance in Time Series Analysis 2025 (By IIT Guwahati)
 - IBM Certified Prompt Engineer 
 - Python (Basic) Certificate by HackerRank
 - HP LIFE online Data Science & Analytics course
