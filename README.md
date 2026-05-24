@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Arnav Anand  
 
-🎓 **BS CSDA @ IIT Patna** | 🤖 **AI / ML Engineer** | 📊 **Data Science Enthusiast**  
+🎓 **Computer Science Student @ IIT Patna** | 🤖 **AI / ML Engineer** | 📊 **Data Science Enthusiast**  
 
 ---
 
 ## 🚀 About Me  
-I’m a Computer Science and Data Analytics student at IIT Patna with hands-on experience building **AI systems, ML pipelines, and full-stack applications**.  
+I am a Computer Science student at IIT Patna with hands-on experience building **AI systems, ML pipelines, and full-stack applications**.  
 
 I focus on solving **real-world problems using AI, LLMs, and data-driven systems**, with practical exposure across **fintech, sustainability, and automation domains**.  
 
