@@ -1,59 +1,135 @@
-# 👋 Hi, I'm Arnav Anand!  
+# 👋 Hi, I'm Arnav Anand  
 
-🎓 Student at IIT Patna | Data Science and AI Enthusiast 
+🎓 **BS CSDA @ IIT Patna** | 🤖 **AI / ML Engineer** | 📊 **Data Science Enthusiast**  
 
-🌟 Welcome to my GitHub profile! I'm Arnav, a passionate student pursuing a Bachelor of Science in Computer Science and Data Analytics at IIT Patna. My interests revolve around machine learning, artificial intelligence, and data analytics, with a focus on using technology to solve real-world problems.  
+---
 
-📧 Email: [beingarnavanand@gmail.com](mailto:beingarnavanand@gmail.com)  
-📍 Location: Varanasi, India  
-🌐 LinkedIn: [Arnav Anand](https://linkedin.com/in/arnav-anand-8076b6279)  
+## 🚀 About Me  
+I’m a Computer Science and Data Analytics student at IIT Patna with hands-on experience building **AI systems, ML pipelines, and full-stack applications**.  
 
- 🧠 About Me  
-- 🏫 Education:
-  - BS in CS & Data Analytics, IIT Patna
-  - 9.03 CGPA in Semester 4
-  - Achieved 91% in 12th CBSE Boards
-  - Ex SDE Intern at Bluestocks Fintech
-  - Ex SDE Intern at Vestastrat
-  - Ex Web Dev Intern at InAmigo Foundation (NGO)
+I focus on solving **real-world problems using AI, LLMs, and data-driven systems**, with practical exposure across **fintech, sustainability, and automation domains**.  
 
-- 💻 Skills:  
-  - Programming: Python, SQL, Flask, Pandas, Numpy, Excel , Microsoft Power BI , HTML , CSS 
-  - AI/ML: Machine Learning Basics, AI Fundamentals, Generative AI  
-  - Soft Skills: Time Management, Logical Reasoning, Reliability , Leadership
+---
 
-- 🛠️ **Key Projects:**  
-  - [Reddit Stock Movement Analysis](https://github.com/Arnaviitp/Reddit-Stock-Movement-Analysis): Predicting stock trends using social media sentiment  
-  - Spam SMS Classification: Built a model to detect spam messages  
-  - Hate Speech Detection: Developed a classifier to identify harmful content  
-  - To-Do List Website: A web app built using Python Flask
-  - Music Recommendation System : Developed a system that suggests personalized music tracks to users based on their listening history and preferences
-  - Adidas U.S. Sales Analysis : Analyzed U.S. Adidas sales data to identify patterns, top-performing products, and actionable business insights.
+## 📬 Connect With Me  
+- 📧 Email: beingarnavanand@gmail.com  
+- 🌐 LinkedIn: https://linkedin.com/in/arnav-anand-8076b6279  
+- 💻 GitHub: https://github.com/Arnaviitp  
+- 📍 Location: Varanasi, India  
 
-## 🏆 Certifications  
-- Career Essentials in Generative AI by Microsoft & LinkedIn
-- Secured 1st Rank in Code-e-Khas Coding Competition(IIT Patna) 
-- Oracle Cloud Infrastructure 2025 Certified Data Science Professional
-- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- TCS iON Career Edge – Young Professional Course
-- Certificate of Merit for being placed in the top 25 percentile in Summer Analytics 2025 (By IIT Guwahati)
--  Certificate of Excellence for being placed in the top 10 percentile and outstanding performance in Time Series Analysis 2025 (By IIT Guwahati)
-- IBM Certified Prompt Engineer 
-- Python (Basic) Certificate by HackerRank
-- HP LIFE online Data Science & Analytics course
-- Secured 3rd in CodeQuest Coding Competition(IIT
- Patna-HackerRank)  
+---
+
+## 🧠 Education  
+- 🎓 **B.Sc. (Hons.) Computer Science & Data Analytics** — IIT Patna  
+  - 📊 CPI: **9.03** (SPI: 9.75 in Sem 4)  
+- 🏫 CBSE Class XII: **91%**  
+
+---
+
+## 💼 Experience  
+
+### 🧑‍💻 SDE Intern — Bluestock Fintech  
+- Built **REST APIs (Django + DRF)** handling 10k+ records  
+- Optimized database queries → **25% performance improvement**  
+- Improved frontend integration → **40% faster load time**  
+
+### 🤖 ML Intern — Talrn  
+- Developed **AI tools using ML + LLM APIs**  
+- Built full-stack apps with **Node.js backend + dynamic UI**  
+
+### 📊 AI/Data Science Intern — NDVTechsys  
+- Created **end-to-end ML pipelines**  
+- Improved model accuracy by **12% via feature engineering**  
+
+### 🌐 SDE Intern — VestaStrat  
+- Built Flutter-based web platform → **35% accessibility boost**  
+- Integrated Firebase for real-time systems  
+
+### 🌍 Web Dev Intern — InAmigos Foundation  
+- Developed responsive web pages with improved UX & performance  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Programming  
+`Python` `SQL` `JavaScript` `Java (Basics)` `C`  
+
+### ⚙️ Frameworks & Tools  
+`Django` `Flask` `Node.js` `React` `Next.js` `Streamlit` `Flutter`  
+
+### 🤖 AI / ML  
+`TensorFlow` `PyTorch` `Scikit-learn` `NLP` `Deep Learning` `Generative AI`  
+
+### 📊 Data & Tools  
+`Pandas` `NumPy` `Power BI` `Tableau` `Excel` `MySQL`  
+
+### 🔧 Concepts  
+`DSA` `Full-Stack Development` `API Design` `Model Deployment`  
+
+---
+
+## 🔥 Key Projects  
+
+### 📈 Reddit Stock Movement Analysis  
+- NLP-based sentiment model predicting stock trends  
+- Achieved **82% accuracy**  
+
+### 🤖 Quantum-Flux — Stock Market AI  
+- AI-powered trading system with real-time predictions, portfolio management, and alerts  
+
+### 🧠 RAG System with Checkpoints  
+- Extracts persona insights & communication patterns using advanced RAG pipelines  
+
+### 🛡️ LLM-Based NIFTY Options Signal System  
+- Generates structured trading signals (CE/PE/Neutral)  
+- Uses LLM + rule-based risk orchestration  
+
+### 🖼️ AI Image Captioning  
+- CNN + RNN architecture (ResNet + LSTM)  
+
+### 💬 Hate Speech Detection  
+- NLP pipeline using TF-IDF + SVM  
+
+---
+
+## 🏆 Achievements & Certifications  
+
+### 🥇 Achievements  
+- 🥇 1st Rank — CODE-e-Khas (IIT Patna)  
+- 🥉 3rd Rank — CodeQuest (IIT Patna)  
+- 📊 Top 10% — Time Series Analysis (IIT Guwahati)  
+- 📊 Top 25% — Summer Analytics (IIT Guwahati)  
+
+### 📜 Certifications  
+- Oracle Certified GenAI Professional (2025)  
+- Oracle Certified Data Science Professional (2025)  
+- Microsoft + LinkedIn Generative AI Certification  
+- IBM Prompt Engineering Certification  
+- TCS iON Career Edge  
+
+---
 
 ## 🌱 Interests  
-- Tech innovations  
-- Practical applications of AI  
-- Exploring courses and achieving milestones  
+- AI Agents & LLM Systems  
+- Real-world ML Applications  
+- Fintech & Algorithmic Trading  
+- Scalable AI Systems  
 
-👀 Feel free to explore my repositories, connect, or collaborate. I'm always eager to learn and grow in the tech domain!  
+---
 
-💡 Fun Fact: When I'm not coding, you'll probably find me exploring the world of AI or reading up on tech trends!  
+## ⚡ Fun Fact  
+I enjoy building **AI systems that actually solve problems**, not just models that sit in notebooks.  
 
-<!---
-Arnaviitp/Arnaviitp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🤝 Let’s Collaborate  
+I’m open to:  
+- AI/ML Projects  
+- Hackathons  
+- Startup Ideas  
+- Open Source Contributions  
+
+---
+
+### ⭐ Explore my repositories to see AI systems, ML models, and real-world applications in action!
