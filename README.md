@@ -10,10 +10,12 @@
 
  🧠 About Me  
 - 🏫 Education:
-  - BS in CS & Data Analytics, IIT Patna  
+  - BS in CS & Data Analytics, IIT Patna
+  - 9.03 CGPA in Semester 4
   - Achieved 91% in 12th CBSE Boards
-  - Ex - SDE Intern at Bluestocks Fintech
-  - SDE Intern at Vestastrat
+  - Ex SDE Intern at Bluestocks Fintech
+  - Ex SDE Intern at Vestastrat
+  - Ex Web Dev Intern at InAmigo Foundation (NGO)
 
 - 💻 Skills:  
   - Programming: Python, SQL, Flask, Pandas, Numpy, Excel , Microsoft Power BI , HTML , CSS 
@@ -30,6 +32,7 @@
 
 ## 🏆 Certifications  
 - Career Essentials in Generative AI by Microsoft & LinkedIn
+- Secured 1st Rank in Code-e-Khas Coding Competition(IIT Patna) 
 - Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 - Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 - TCS iON Career Edge – Young Professional Course
